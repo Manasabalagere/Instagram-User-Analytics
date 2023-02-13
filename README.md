@@ -55,4 +55,12 @@ Jot down the insights and the knowledge you gained while making the project. You
 - Result:
 Mention what have you achieved while making the project and how do you think it has helped you.
 
+## Dataset:
+
+- Commands for creating Database.docx : This fiels consists the entire database
+
 ## Details of files:
+
+- Instangram User Analytics-Assingment(SQL FILE).sql : Entire project with the answered queries.
+
+- Instangram User Analytics-Assingment Report.pdf :The final report of the project.
